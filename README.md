@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development, Software Development, Python Scripting, System Design etc , etc 
 - 🌱 I’m currently learning System Design And Architecture 
 - 💞️ I’m looking to collaborate on Everything
-- 📫 How to reach me  - devisfuture00@gmail.com , Whatsapp me on +91-9996811378
+- 📫 How to reach me  - deveshsinghverma16@gmail.com , Whatsapp me on +91-9996811378
 
 <!---
 DisasterSingh/DisasterSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
