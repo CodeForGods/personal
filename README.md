@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning System Design And Architecture 
 - 💞️ I’m looking to collaborate on Everything
 - 📫 How to reach me  - deveshsinghverma16@gmail.com , Whatsapp me on +91-9996811378
-- 🏅 http://devesh.seekjob.in/
+- 🏅 https://devesh.seekjob.in/
 <!---
 DisasterSingh/DisasterSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
